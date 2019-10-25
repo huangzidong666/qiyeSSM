@@ -1,0 +1,10 @@
+com\huangjindong\service\IPermissionService.class
+com\huangjindong\service\IUserInfoService.class
+com\huangjindong\service\impl\PermissionService.class
+com\huangjindong\service\impl\RoleService.class
+com\huangjindong\service\IOrdersService.class
+com\huangjindong\service\IRoleService.class
+com\huangjindong\service\IProductService.class
+com\huangjindong\service\impl\OrdersService.class
+com\huangjindong\service\impl\ProductService.class
+com\huangjindong\service\impl\UserInfoService.class

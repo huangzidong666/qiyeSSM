@@ -1,0 +1,7 @@
+com\huangjindong\dao\IMemberDao.class
+com\huangjindong\dao\IOrdersDao.class
+com\huangjindong\dao\ITravellersDao.class
+com\huangjindong\dao\IRolesDao.class
+com\huangjindong\dao\IUserInfoDao.class
+com\huangjindong\dao\IPermissionDao.class
+com\huangjindong\dao\IProductDao.class

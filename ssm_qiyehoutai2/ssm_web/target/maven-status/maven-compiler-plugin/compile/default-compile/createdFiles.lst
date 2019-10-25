@@ -1,0 +1,5 @@
+com\huangjindong\controller\PermissionController.class
+com\huangjindong\controller\OrdersController.class
+com\huangjindong\controller\UserInfoController.class
+com\huangjindong\controller\ProductController.class
+com\huangjindong\controller\RoleController.class
